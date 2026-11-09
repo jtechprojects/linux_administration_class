@@ -21,3 +21,13 @@ This project was completed as part of my CIS-245 Linux Administration coursework
 ## Documentation
 
 For the complete walkthrough, including commands, screenshots, troubleshooting findings, and references, please see **securitylabpart2.pdf**.
+
+## Lab Results and Lessons Learned
+
+This lab gave me hands-on experience troubleshooting two Linux distributions and verifying system recovery.
+
+- **CentOS Stream 10:** Investigated server issues, restored Apache functionality, and successfully tested emergency mode.
+- **Ubuntu 26.04.1 LTS:** Resolved a Netplan networking issue and successfully tested recovery mode.
+- **Automation:** Developed and tested a Bash diagnostic script on both systems and verified automatic execution through cron.
+
+One of my biggest takeaways was the importance of verifying troubleshooting results rather than assuming a problem has been resolved. I also gained a better understanding of how CentOS and Ubuntu handle system recovery differently.
